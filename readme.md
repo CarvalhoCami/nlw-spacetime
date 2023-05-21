@@ -12,5 +12,5 @@ Esse projeto foi desenvolvido durante o NLW da Rocketsear com as seguintes tecno
 - CSS
 - Git e Github
 
-##Layout 
+## Layout 
 Você pode acessar o layout do projeto através [desselink](https://www.figma.com/file/V9ys42XdGqoHTgdyWrCOQT/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)?type=design&node-id=306%3A3&t=GbL1nHY5UKKK53tA-1)
