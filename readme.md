@@ -1,6 +1,7 @@
 <p align="center">
   <img src=".github/banner.png" alt="demonstração do projeto" width="100%" />
 </p>
+
 ## Projeto
 esse é um projeto Web Responsico de uma Cápsula do tempo para exibir memórias em uma linha do tempo. 
 
